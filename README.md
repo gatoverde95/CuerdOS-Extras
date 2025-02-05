@@ -1,2 +1,2 @@
 # CuerdOS LiNe
-Paquetes extras para MATE, Xfce, Budgie, LXDE, LXQt y Cinnamon
+Es un Meta Paquete de conjuntos de software y extras para WM/DE.
